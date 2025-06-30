@@ -21,13 +21,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add images or GIFs below if you have them -->
-<!-- ![TunePerfect Demo](https://your-screenshot-or-gif-url.com) -->
-
----
-
 ## 🗂️ Project Highlights
 
 - **Microphone Access & Audio Streaming** — Seamless integration of microphone permissions and live audio feed  
@@ -40,7 +33,7 @@
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/yourusername/tuneperfect.git
+    git clone https://github.com/prathammkakkar/tune_perfect.git
     ```
 2. Open `index.html` in your browser.  
 3. Grant microphone access when prompted.  
